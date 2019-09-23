@@ -14,35 +14,35 @@
     ]
   },
   "tb_area": {
-    "dataSource": "nexadb",
+    "dataSource": "hablafacildev",
     "public": true
   },
   "tb_gerencias": {
-    "dataSource": "nexadb",
+    "dataSource": "hablafacildev",
     "public": true
   },
   "tb_incidencias": {
-    "dataSource": "nexadb",
+    "dataSource": "hablafacildev",
     "public": true
   },
   "tb_personal_at": {
-    "dataSource": "nexadb",
+    "dataSource": "hablafacildev",
     "public": true
   },
   "tb_personal_ep": {
-    "dataSource": "nexadb",
+    "dataSource": "hablafacildev",
     "public": true
   },
   "tb_plan_accion": {
-    "dataSource": "nexadb",
+    "dataSource": "hablafacildev",
     "public": true
   },
   "tb_users": {
-    "dataSource": "nexadb",
+    "dataSource": "hablafacildev",
     "public": true
   },
   "utils": {
-    "dataSource": "nexadb",
+    "dataSource": "hablafacildev",
     "public": true
   }
 }

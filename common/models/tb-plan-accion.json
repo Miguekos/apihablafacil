@@ -1,0 +1,44 @@
+{
+  "name": "tb_plan_accion",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "id": {
+      "type": "number"
+    },
+    "id_incidencia": {
+      "type": "number"
+    },
+    "ugb": {
+      "type": "string"
+    },
+    "descripcion": {
+      "type": "string"
+    },
+    "fecha_prevista": {
+      "type": "date"
+    },
+    "fecha_realizada": {
+      "type": "date"
+    },
+    "responsable_registro": {
+      "type": "string"
+    },
+    "area": {
+      "type": "string"
+    },
+    "observacion": {
+      "type": "string"
+    },
+    "grupo_de_tareas": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
